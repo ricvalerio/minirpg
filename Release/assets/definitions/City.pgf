@@ -1,0 +1,22 @@
+{
+  "entities": {
+    "Player": {
+      "Name": {"name": "Hero"},
+      "Position": {"x": 1000.0, "y": 1400.0}
+    },
+
+    "Priest": {
+      "id": {"id": 1000},
+      "Name": {"name": "Father John"},
+      "Position": {"x": 1080.0, "y": 450.0}
+    },
+
+    "Dragon": {
+      "id": {"id": 1001},
+      "Name": {"name": "Dragon"},
+      "NPC": null,
+      "Position": {"x": 1080.0, "y": 1800.0}
+    }
+  }
+
+}
